@@ -15,7 +15,7 @@ django-bootstrap4==0.0.8
 django-braces==1.13.0
 django-recaptcha==2.0.4
 django-rest-auth==0.9.5
-djangorestframework==3.10.2
+djangorestframework==3.11.2
 elasticsearch==7.0.2
 elasticsearch-dsl==7.0.0
 entrypoints==0.3
